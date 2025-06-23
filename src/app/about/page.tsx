@@ -18,7 +18,7 @@ export default function AboutPage() {
               <div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-4">Anirudh Kopparthi</h2>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  I am currently attending the College of Engineering at NC State University, pursuing a Bachelor's degree in Electrical and Computer Engineering, with a deep interest in robotics, automation, and intelligent systems. My academic journey is driven by a passion for integrating hardware design with innovative software solutions to build advanced technologies that positively impact industries and daily life.
+                  I am currently attending the College of Engineering at NC State University, pursuing a Bachelor&apos;s degree in Electrical and Computer Engineering, with a deep interest in robotics, automation, and intelligent systems. My academic journey is driven by a passion for integrating hardware design with innovative software solutions to build advanced technologies that positively impact industries and daily life.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
                   With a foundation in programming, machine learning, and now an expanding expertise in electrical systems and circuit design, I aim to bridge the gap between software intelligence and hardware capabilities. I am actively seeking hands-on experiences through internships, research, and collaborative projects that allow me to contribute to meaningful advancements in robotics, AI-driven systems, and automated technologies.
@@ -73,7 +73,7 @@ export default function AboutPage() {
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Education</h3>
               <div className="space-y-4">
                 <div className="border-l-4 border-blue-500 pl-4">
-                  <h4 className="font-semibold text-gray-900">Bachelor's in Electrical and Computer Engineering</h4>
+                  <h4 className="font-semibold text-gray-900">Bachelor&apos;s in Electrical and Computer Engineering</h4>
                   <p className="text-gray-600">College of Engineering, NC State University</p>
                   <p className="text-sm text-gray-500">Current</p>
                 </div>
